@@ -7,8 +7,7 @@ The conventional amino acid composition contains 20 components, or discrete numb
 Here we also have some extra values; let’s say “x” values, which encodes the sequence effect in them. 
 To calculate these “x” values consider a protein chain of L amino acid residues:         
 <pre>                                 R1R2R3R4.........RL                                 ------ (1)</pre>                              
-And let the corelative factors be theta1 , theta2, .......,o<sub>labda</sub> then-
-<img src="Images/2nd.PNG">                         
+And let the corelative factors be theta1 , theta2, .......,o<sub>lambda</sub> then -<img src="Images/2nd.PNG">                         
                                       
 Here the function relating two amino acid residues can be represented as 
 <img src="Images/3rd.PNG">                             
